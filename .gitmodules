@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "COLP"]
+	path = COLP
+	url = https://github.com/nystat/colp
+	shallow = true
+	registered = true
