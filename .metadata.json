@@ -2,5 +2,9 @@
   {
     "package": "COLP",
     "oncran": true
+  },
+  {
+    "package": "OrdCD",
+    "oncran": true
   }
 ]

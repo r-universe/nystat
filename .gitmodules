@@ -8,3 +8,8 @@
 	url = https://github.com/nystat/colp
 	shallow = true
 	registered = true
+[submodule "OrdCD"]
+	path = OrdCD
+	url = https://github.com/nystat/ordcd
+	shallow = true
+	registered = true
